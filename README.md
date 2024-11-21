@@ -21,7 +21,9 @@ Rapor dönemlerinde yapılan çalışmalar
 ![image](https://github.com/user-attachments/assets/2d499691-cf2f-49c6-84a7-7670c04e6ac9)
 
 Çalışmaya katılan 326 öğrenciden 193(%59.2) kişinin kitap okuma alışkanlığı varken 133(%40,8) kişinin kitap okuma alışkanlığı yoktur (Tablo 2 ve Şekil 2).
+
 ![image](https://github.com/user-attachments/assets/c68e7894-2aa9-4cbd-aca2-05e0cf75fc49)
+
 ![image](https://github.com/user-attachments/assets/2db4444f-e81c-4b99-8862-32601f297e83)
 
 Çalışmaya katılan 326 öğrenciden 208(%63,8)’i yurtta, 93(%28,5)’ü Evde Ailesi İle, 25(%7,6)’i Evde Arkadaşları ile kalmaktadır.(Tablo 3, Şekil3.1 ve Şekil 3.2)
