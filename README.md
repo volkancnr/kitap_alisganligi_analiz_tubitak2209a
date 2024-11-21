@@ -1,4 +1,5 @@
-ÖZET
+ÖZET:
+
 Tübitak 2209-A kapsamında yaptığım bu projede üniversite öğrencilerinin okuma alışkanlıklarının araştırılacağı demografik sorular içeren bir anket formu oluşturulup öğrencilerin okuma alışkınlıklarının genel bir resmi veri görselleştirme teknikleri ile sunuldu.
 Üniversite öğrencilerinin okudukları kitap sayısını etkileyen etkili faktörler, uygun sıfır yığılmalı regresyon analizleri R ve Python ile modellendi. Sonrasında okuma alışkanlığı üzerine etkisi olduğu düşünülen faktörler üzerinde istatistiksel sonuç çıkarımları yapıldı. Makine öğrenmesi algoritması ile Sınıflandırmalar yapılarak tahminler yapıldı ve çalışma genişletildi. 
 
